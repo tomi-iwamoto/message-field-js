@@ -3,7 +3,6 @@ const text = document.getElementById('text');
 const sendButton = document.getElementById('send');
 const clearButton = document.getElementById('clear');
 
-
 function display(){
     let textValue = text.value;
     message.innerHTML = textValue;
