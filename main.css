@@ -4,6 +4,7 @@ body {
 }
 
 main {
+    padding-top: 50px;
     width: 100%;
     display:flex;
     justify-content: center;
@@ -44,4 +45,10 @@ button {
 
 #clear {
     background:mediumaquamarine;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    color:green;
+    font-size: 27px;
 }
